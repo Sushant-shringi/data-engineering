@@ -1,6 +1,7 @@
 # AWS Earthquake Data Pipeline
 
 ## Architecture
+![Architecture](aws.png)
 
 USGS API
 ↓
